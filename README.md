@@ -9,11 +9,10 @@
 
 💻 Frontend Developer with expertise in **React.js**, creating responsive web applications and intuitive UIs.  
 🚀 Experienced in **API integration**, **performance optimization**, and **secure frontend development**.  
-✨ Proven record of boosting engagement by **45% conversion rate increase** in a key project.  
 🎨 Passionate about turning ideas into elegant, interactive digital experiences.
 
 📍 Gurugram, Haryana, India  
-📧 [purusharma9925@gmail.com](mailto:purusharma9925@gmail.com)  
+📧 [Email](mailto:purusharma9925@gmail.com)  
 🌐 [Portfolio](https://purusharma.vercel.app) | [LinkedIn](https://www.linkedin.com/in/purusharma99/) | [GitHub](https://github.com/PuruSharma99)
 
 ---
